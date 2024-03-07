@@ -1,5 +1,6 @@
 import streamlit as st
 
-st.header('Lanzar una moneda')
+st.header('Puto el que lo lea :P')
 
-st.write('Esta aplicación aún no es funcional. En construcción.')
+
+st.write('atte la Sara Ingeniera :P')
